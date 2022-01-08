@@ -57,6 +57,9 @@ bacon + 1
 
 it give 23 .
 
+![Screenshot (564)](https://user-images.githubusercontent.com/55192488/148654210-38c306b5-3be4-4516-afaf-ea464f74093d.png)
+
+
 7.What should the values of the following two terms be?
 'spam'+'spamspam'
 'spam'*3
