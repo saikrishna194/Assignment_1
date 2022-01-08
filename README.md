@@ -60,23 +60,26 @@ it give 23 .
 ![Screenshot (564)](https://user-images.githubusercontent.com/55192488/148654210-38c306b5-3be4-4516-afaf-ea464f74093d.png)
 
 
+
 7.What should the values of the following two terms be?
 'spam'+'spamspam'
 'spam'*3
 
 ![Screenshot (567)](https://user-images.githubusercontent.com/55192488/148654255-13773631-fa80-4485-a83c-fb4a23f50522.png)
 
-
 both expression evaluate to the string 'spamspamspam'.
+
 
 8.Why is eggs a valid variable name while 100 is invalid?
 
 the variable name cannot begin with a number if we should begin with, a string  like alphabet name then integer.
 
+
 9.What three functions can be used to get the integer, floating-point number, or string
 version of a value?
 
 str(),float(),int().
+
 
 
 10.Why does this expression cause an error? How can you fix it?
