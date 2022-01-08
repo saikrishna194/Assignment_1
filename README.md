@@ -64,6 +64,9 @@ it give 23 .
 'spam'+'spamspam'
 'spam'*3
 
+![Screenshot (567)](https://user-images.githubusercontent.com/55192488/148654255-13773631-fa80-4485-a83c-fb4a23f50522.png)
+
+
 both expression evaluate to the string 'spamspamspam'.
 
 8.Why is eggs a valid variable name while 100 is invalid?
